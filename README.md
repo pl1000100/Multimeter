@@ -1,4 +1,4 @@
-# Multimetr
+# Multimeter
 
 This application allows you to display measured values on computer screen.
 
