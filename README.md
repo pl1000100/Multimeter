@@ -10,7 +10,7 @@ It will automatically find correct COM port and display measured value on screen
 ![](https://github.com/pl1000100/Multimetr/blob/main/images/multimeter-back.jpg?raw=true)
 
 Application will convert downloaded data from ASCII format to measured value as shown on screens bellow.
-Application wiondow is fully resizable so you can see measuerments much easier on your computer instead of multimeter.
+Application window is fully resizable so you can see measurements much easier on your computer instead of multimeter.
 
 ![](https://github.com/pl1000100/Multimetr/blob/main/images/application-acv.png?raw=true)
 
